@@ -1,6 +1,6 @@
-# CareFlow Telehealth — Sistem Konsultasi & Self-Assessment Terintegrasi
+# SelfCare ID TeleHealth — Self-Assessment Terintegrasi
 
-CareFlow Telehealth adalah platform aplikasi web klinis dan sistem *self-assessment* pasien mandiri yang terintegrasi langsung dengan **Telehealth API v2.0**. Aplikasi ini dirancang untuk memfasilitasi alur konsultasi virtual, observasi telemetri biometrik waktu nyata (*real-time*), dokumentasi rekam medis elektronik (RME), serta pengisian dan evaluasi formulir triase mandiri pasien.
+SelfCare ID TeleHealth adalah platform aplikasi web klinis dan sistem *self-assessment* pasien mandiri yang terintegrasi langsung dengan **Telehealth API**. Aplikasi ini dirancang untuk memfasilitasi alur konsultasi virtual, dokumentasi rekam medis elektronik (RME), serta pengisian dan evaluasi formulir triase mandiri pasien.
 
 Proyek ini disusun untuk pemenuhan tugas Ujian Tengah Semester (UTS) mata kuliah Telehealth.
 
@@ -10,7 +10,7 @@ Proyek ini disusun untuk pemenuhan tugas Ujian Tengah Semester (UTS) mata kuliah
 
 - **NIM:** C2C023109
 - **Nama:** Anang Sugeng Riyadi
-- **Kelas:** Informatika KesehatanB
+- **Kelas:** Informatika Kesehatan B
 - **Program Studi:** S1 Informatika — Universitas Muhammadiyah Semarang (UNIMUS)
 
 ---
@@ -43,7 +43,6 @@ Proyek ini disusun untuk pemenuhan tugas Ujian Tengah Semester (UTS) mata kuliah
 
 ### 4. Manajemen Antrean & Pemantauan Multi-Pasien
 - **Antrean Pasien Virtual:** Filter triase berdasarkan status hemodinamik dan konektivitas ruang konsultasi.
-- **Monitor Biometrik:** Tinjauan pemantauan telemetri multi-ruangan sekaligus.
 - **Ronde Klinis:** Penjadwalan dan tinjauan kasus medis akademik antar dokter spesialis.
 
 ---
