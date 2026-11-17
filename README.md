@@ -10,14 +10,14 @@ Proyek ini disusun untuk pemenuhan tugas Ujian Tengah Semester (UTS) mata kuliah
 
 - **NIM:** C2C023109
 - **Nama:** Anang Sugeng Riyadi
-- **Kelas:** IK-7B
-- **Program Studi:** S1 Teknik Informatika — Universitas Muhammadiyah Semarang (UNIMUS)
+- **Kelas:** Informatika KesehatanB
+- **Program Studi:** S1 Informatika — Universitas Muhammadiyah Semarang (UNIMUS)
 
 ---
 
 ## Fitur Utama
 
-### 1. Modul Self-Assessment Telehealth (Integrasi API v2.0)
+### 1. Modul Self-Assessment Telehealth (Integrasi API)
 - **Beranda & Profil Pasien:** Menampilkan identitas pasien terdaftar (`/me`), nomor rekam medis (RM), ringkasan statistik laporan, dan peringatan klarifikasi aktif.
 - **Persetujuan Medis & Petunjuk:** Alur persetujuan medis (*informed consent*) wajib sebelum memulai pengisian formulir.
 - **Pengisian Formulir Bertahap & Logika Dinamis:** Pengisian formulir keluhan (`FRM-KELUHAN`) dan kuesioner pendukung dengan logika syarat tampil (*show_if* condition engine) secara dinamis.
@@ -114,4 +114,4 @@ npm.cmd run start
 - **Tata Letak & Gaya:** [Tailwind CSS](https://tailwindcss.com/) v4
 - **Ikonografi:** [Lucide React](https://lucide.dev/)
 - **Animasi:** [Motion](https://motion.dev/)
-- **API Backend:** Telehealth API v2.0 (Informatika UNIMUS)
+- **API Backend:** Telehealth API (Informatika UNIMUS)
